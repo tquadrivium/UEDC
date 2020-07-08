@@ -1,37 +1,115 @@
-## Welcome to GitHub Pages
+## AP008：以匠心，致设计 - 网易 UEDC 用户体验设计
 
-You can use the [editor on GitHub](https://github.com/tquadrivium/UEDC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本次读书研讨会所使用的主要文本是有网易用户体验设计中心编著的《以匠心，致设计：网易 UEDC 用户体验设计》一书。该书是网易用户体验设计团队对自身过去的设计思考的精心总结，最大程度还原了网易产品背后的设计故事，内容涵盖设计基础、设计实践、方法思考、成长指南四章，借助网易产品设计的实际案例具体讲述了设计师日常工作中不可避免的用户引导、色彩搭配、品牌设计、体验设计、信息层级、设计规范等内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+做设计是需要“匠心”的。因此，该书细致设计了书中的每一处细节，这本反思、总结之书能够给广大UI设计师、视觉设计师、交互设计师、用户体验设计师、产品经理等产品设计相关人员带来启迪，帮助所有从业人员展望未来。
 
-### Markdown
+[[点击在线阅读\]](https://tquadrivium.github.io/UEDC/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1.课程大纲
 
-```markdown
-Syntax highlighted code block
+- Chapter 01:设计基础（上）
 
-# Header 1
-## Header 2
-### Header 3
+01 用户引导——让设计不再“小透明” 
 
-- Bulleted
-- List
+02 从案例中学习如何突破设计中的固有思维 
 
-1. Numbered
-2. List
+- Chapter 02:设计基础（下）
 
-**Bold** and _Italic_ and `Code` text
+03 你不知道的色彩密码 
 
-[Link](url) and ![Image](src)
-```
+04 图表设计——远不止“好看”这么简单 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+05 如何绘制一份交互稿 
 
-### Jekyll Themes
+- Chapter 03:设计实践（一）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tquadrivium/UEDC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+06 网易严选 App 品牌设计 
 
-### Support or Contact
+07 网易蜗牛读书品牌体验设计 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Chapter 04:设计实践（二）
+
+08 视觉设计师的进化 
+
+09 如何用“十字法”构建页面中的信息层级 
+
+- Chapter 05:设计实践（三）
+
+10 从 0 到 1：论网易严选营销线的交互设计
+
+11 小屏幕下的大数据
+
+- Chapter 06:设计实践（四）
+
+12 心理学小策略帮你引导用户决策
+
+13 设计打动人心的瞬间 
+
+- Chapter 07:设计方法总结（上）
+
+14 用体验设计思维做官网：B 端产品官网设计实践 
+
+15 控制感，为用户体验加分
+
+- Chapter 08:设计方法总结（下）
+
+16 结构化思维初体验：猛犸平台优化实战 
+
+17 对制作交互规范的思考 
+
+- Chapter 09:体验设计师成长指南（上）
+
+18 在工作中，交互设计师应学会的“僭越” 
+
+19 UI 设计师如何自我提升设计力 
+
+- Chapter 10:体验设计师成长指南（下）
+
+20 设计师的自我管理 
+
+21 设计师如何提高产品思维 
+
+
+
+### 2.关于作者
+
+网易用户体验设计中心（User Experience Design Center），简称“UEDC”，成立于2008年年底，主要为网易杭州研究院在研发各种互联网产品的流程中提供优质的用户体验设计，让海量用户可以轻松使用产品，并保持愉悦体验。同时，UEDC还面向全网易公司的所有互联网产品提供设计规范，以统一体验标准，降低用户学习成本和企业研发成本，为提升网易所有产品的用户体验发挥了关键作用。UEDC成功设计出网易云音乐、易信等亿级用户产品，以及网易蜗牛读书、LOFTER等口碑优秀的产品。目前，UEDC设计的作品覆盖了网易金融、网易星球、网易宝、网易有钱、网易考拉、易信、网易漫画、网易云阅读、网易蜗牛阅读、LOFTER、极客少年、网易云、网易云信、网易云商服、网易易盾等60余款产品。
+
+
+
+### 3.关于读书会
+
+读书会由各个高校的在读研究生共同组建，最初由Hao ZHAN和Cheng LI发起。
+
+本次项目系Jane发起，目前就职于某互联网大厂高级体验设计师。
+
+读书会项目地址：https://github.com/tquadrivium
+
+微信公众号：三艺四术
+
+网站：sanyisishu.com
+
+
+
+### 4.学习形式
+
+采用线上学习的形式（使用字节跳动开发的飞书平台，类似zoom），每周阅读《以匠心，致设计》的2小节内容。每周先由领读人梳理章节内容（20-30分钟），项目成员轮流领读，然后大家对阅读时所遇到的问题和难点进行讨论，结合自己工作经验展开讨论（40-80分钟）。
+
+每次读书会的内容会以文本和视频的形式发布在该项目中，方便没能参与到讨论中的朋友观看。
+
+
+
+5.参与方法
+
+将基本情况（如学校、专业方向、年级）和加入读书会的理由（100字以内）发送到 [mintyjaly@foxmail.com](mailto:mintyjaly@foxmail.com) ，邮件题目为：姓名+网易UEDC的《以匠心，致设计》读书会报名。
+
+我们会尽可能快地进行答复。
+
+
+
+# 6.参与成员
+
+该项目创建于2020/7/8，目前在成员招募中，预计招募10人。
+
+欢迎感兴趣的小伙伴参加，一起监督学习，沉淀思考。
